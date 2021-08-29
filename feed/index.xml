@@ -750,7 +750,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-post-navigation">
 			<div class="elementor-post-navigation__prev elementor-post-navigation__link">
-				<a href="./../season2/index.html" rel="prev"><span class="post-navigation__arrow-wrapper post-navigation__arrow-prev"><i class="fa fa-angle-left" aria-hidden="true"></i><span class="elementor-screen-only">Prev</span></span><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">Season 2</span></span></a>			</div>
+				<a href="./../season1/index.html" rel="prev"><span class="post-navigation__arrow-wrapper post-navigation__arrow-prev"><i class="fa fa-angle-left" aria-hidden="true"></i><span class="elementor-screen-only">Prev</span></span><span class="elementor-post-navigation__link__prev"><span class="post-navigation__prev--label">Previous</span><span class="post-navigation__prev--title">Season 1</span></span></a>			</div>
 							<div class="elementor-post-navigation__separator-wrapper">
 					<div class="elementor-post-navigation__separator"></div>
 				</div>
