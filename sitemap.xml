@@ -1,164 +1,172 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://www.ruhail.xyz/</loc>
-	<lastmod>2021-08-29T18:33:44+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://theowlhouse.ruhail.xyz/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/season1/</loc>
-	<lastmod>2021-08-29T18:33:45+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/season1/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/season2/</loc>
-	<lastmod>2021-08-29T18:33:48+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/season2/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e01/</loc>
-	<lastmod>2021-08-29T18:33:48+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e01/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e02/</loc>
-	<lastmod>2021-08-29T18:33:48+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e02/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e03/</loc>
-	<lastmod>2021-08-29T18:33:49+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e03/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e04/</loc>
-	<lastmod>2021-08-29T18:33:52+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e04/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e05/</loc>
-	<lastmod>2021-08-29T18:33:49+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e05/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e06/</loc>
-	<lastmod>2021-08-29T18:33:50+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e06/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e07/</loc>
-	<lastmod>2021-08-29T18:33:50+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e07/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e08/</loc>
-	<lastmod>2021-08-29T18:33:51+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e08/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e09/</loc>
-	<lastmod>2021-08-29T18:33:51+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e09/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e10/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e10/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e11/</loc>
-	<lastmod>2021-08-29T18:33:52+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e11/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e12/</loc>
-	<lastmod>2021-08-29T18:33:52+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e12/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e13/</loc>
-	<lastmod>2021-08-29T18:33:52+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e13/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e14/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e14/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e15/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e15/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e16/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e16/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e17/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e17/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e18/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e18/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s01e19/</loc>
-	<lastmod>2021-08-29T18:33:53+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s01e19/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e10/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e10/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e09/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e09/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e08/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e08/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e07/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e07/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e06/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e06/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e05/</loc>
-	<lastmod>2021-08-29T18:33:54+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e05/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e04/</loc>
-	<lastmod>2021-08-29T18:33:55+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e04/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e03/</loc>
-	<lastmod>2021-08-29T18:33:55+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e03/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e02/</loc>
-	<lastmod>2021-08-29T18:33:55+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e02/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.ruhail.xyz/s02e01/</loc>
-	<lastmod>2021-08-29T18:33:55+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://theowlhouse.ruhail.xyz/s02e01/</loc>
+  <lastmod>2021-08-31T09:06:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
